@@ -1,0 +1,9 @@
+header{
+    /*background: url("coverphoto.jpg");*/
+    background-color: antiquewhite;
+    background-size: cover;
+    background-position: center; /* not background-position-x*/
+    min-height: 800px;
+}
+@media screen and (max-width: 670px);{  
+}
